@@ -26,7 +26,8 @@
 # Implementación del proyecto - etapas 
 
 ### Carpetas 
-- 
+- *Sales_Data* : carpeta que almacena la fuente de datos sales.csv, esta es un fuente de datos es secundaria, ya que se descargaron de la pagina Kaggle. 
+
 
 
 ## Contexto
