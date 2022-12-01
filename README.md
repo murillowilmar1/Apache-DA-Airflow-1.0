@@ -28,7 +28,7 @@ las carpetas estan en el orden en la que se debe ejecutar el proyecto paso a pas
 
 - **Sales_Data** : carpeta que almacena la fuente de datos sales.csv, esta es un fuente de datos  secundaria, ya que se descargaron de la pagina Kaggle. 
 
-- **Request_send_data** : Esta carpeta contiene los archivos.py que ejecutan el requerimiento de los datos y el envio hacia la base de datos en postgresql
+- **Request_send_Data** : Esta carpeta contiene los archivos.py que ejecutan el requerimiento de los datos y el envio hacia la base de datos en postgresql
 
 
 
