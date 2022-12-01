@@ -2,7 +2,7 @@
 
  
 
-## Desarrolador del proyecto 
+## Desarrollador del proyecto 
 
 - [Wilmar Murillo Carmona](https://github.com/murillowilmar1) 
 
@@ -23,10 +23,10 @@
 
 
 
-# Implementación del proyecto - etapas 
+# Implementación del proyecto - Etapas 
 
 ### Carpetas 
-- *Sales_Data* : carpeta que almacena la fuente de datos sales.csv, esta es un fuente de datos es secundaria, ya que se descargaron de la pagina Kaggle. 
+- **Sales_Data** : carpeta que almacena la fuente de datos sales.csv, esta es un fuente de datos es secundaria, ya que se descargaron de la pagina Kaggle. 
 
 
 
