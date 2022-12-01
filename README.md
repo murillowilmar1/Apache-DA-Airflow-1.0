@@ -8,7 +8,7 @@
 
 # Objetivo
 
--Implementación de un flujo de ejecución en la que se ejecute un proceso ETL, utiliozando el conjunto de datos Sales.csv, la idea principal es que este conjunto de datos pase por todos los procesos necasarios para el despliegue y  visualización de los datos 
+- Implementación de un flujo de ejecución en la que se ejecute un proceso ETL, utiliozando el conjunto de datos Sales.csv, la idea principal es que este conjunto de datos pase por todos los procesos necasarios para el despliegue y  visualización de los datos 
 
 
 
