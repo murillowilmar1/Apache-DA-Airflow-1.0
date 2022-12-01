@@ -23,10 +23,10 @@
 
 
 
-# Implementación del proyecto 
+# Implementación del proyecto - etapas 
 
 ### Carpetas 
-
+- 
 
 
 ## Contexto
