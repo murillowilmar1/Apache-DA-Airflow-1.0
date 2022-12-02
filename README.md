@@ -30,7 +30,7 @@ las carpetas estan en el orden en la que se debe ejecutar el proyecto paso a pas
 
 - **Request_send_Data** : Esta carpeta contiene los archivos.py que ejecutan el requerimiento de los datos y el envio hacia la base de datos en postgresql
 
-- **Sql_Data* : Esta carpeta contiene los archivos.sql que ejecutan las consultas a la base de datos Postgresql, estas consultas van a interactuar con los Dags en Airflow 
+- **Sql_Data** : Esta carpeta contiene los archivos.sql que ejecutan las consultas a la base de datos Postgresql, estas consultas van a interactuar con los Dags en Airflow  
 
 
 
