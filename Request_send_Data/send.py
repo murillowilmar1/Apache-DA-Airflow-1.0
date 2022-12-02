@@ -7,7 +7,7 @@ from Request import sales
 
 # Utilizar variable para conexión 
 
-engine = create_engine ("postgresql://postgres:2369115@localhost:5432/challenge")
+engine = create_engine ("postgresql://postgres:*****@localhost:5432/*****")
 
 # Pasar tabla  a SQL 
 sales.to_sql("sales_data", con=engine, if_exists="replace")
