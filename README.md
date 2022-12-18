@@ -18,7 +18,7 @@
 - Postgresql 
 - Aws S3 
 - AWS Athena 
-- 
+- Power BI
 
 
 # Descripción del proyecto  
@@ -32,6 +32,11 @@ las carpetas estan en el orden en la que se debe ejecutar el proyecto paso a pas
 
 - **Sql_Data** : Esta carpeta contiene los archivos.sql que ejecutan las consultas a la base de datos Postgresql, estas consultas van a interactuar con los Dags en Airflow  
 
+- **Airflow_process_Data** : Esta carpeta contiene los archivos .py de los Dags que se generaron en Airflow, en este proceso se realizó ETL para la extracción de datos, transfomación de datos y carga de datos en la nube aws(bucket S3)
+
+
+- **Aws_services** : Esta carpeta contiene los servicios utilizados en la nube AWS para el almacenamiento de los datos (bucket S3) y Athena para la conexión con power BI
+
 
 
 ## Contexto
@@ -39,8 +44,6 @@ las carpetas estan en el orden en la que se debe ejecutar el proyecto paso a pas
 
 ## Requerimientos 
 
-### Etapas 
 
-- 
 
 
