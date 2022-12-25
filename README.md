@@ -41,8 +41,13 @@ las carpetas estan en el orden en la que se debe ejecutar el proyecto paso a pas
 
 ## Contexto
 
+El proyecto consiste en realizar el despliegue de una base de datos US Store-sales, con el fin de evidenciar cual es el proceso por el cual pasan los datos para disponibilizar la información, ya sea en tiempo real o de manera remota, para que cuaquier persona pueda verla, en este proceso tambien se utiliza Airflow como herramienta de flujo de datos y asi poder automatizar el proceso de ETL en el schedule que se necesite. 
+
 
 ## Requerimientos 
+
+
+Realizar la automatización  ETL  para la disponibilzar la información en la nube AWS, ademas de realizar el analisis explotaratorio de datos para verificar las variables que seran seleccionadas en el modelo de machine learning. 
 
 
 
