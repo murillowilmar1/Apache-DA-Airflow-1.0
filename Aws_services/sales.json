@@ -1,0 +1,13 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://awswmurillo.s3.amazonaws.com/Sales_data_clean.csv"
+                
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "textqualifier": "\""
+    }
+}

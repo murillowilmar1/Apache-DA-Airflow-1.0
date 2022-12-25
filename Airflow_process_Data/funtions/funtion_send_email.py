@@ -5,8 +5,10 @@ from typing import Dict
 def send_mail_f() -> Dict:
     return {
         "subject": "exitoso!",
-       
+        "body":"exitoso"
     }
+       
+    
 
 
 
