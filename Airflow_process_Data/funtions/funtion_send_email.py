@@ -26,7 +26,7 @@ def send_mail ():
      conexion.starttls()
 
 
-     conexion.login(user="murillowilmar1@gmail.com", password="iwsmlkevxcobbnne")
+     conexion.login(user="murillowilmar1@gmail.com", password="*******")
 
      
      body_text = mail["body"]
