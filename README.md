@@ -17,8 +17,7 @@
 - Apache Airflow 
 - Postgresql 
 - Aws S3 
-- AWS Athena 
-- Power BI
+- Quicksight
 
 
 # Descripción del proyecto  
