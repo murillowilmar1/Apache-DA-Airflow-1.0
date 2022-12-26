@@ -24,8 +24,7 @@ def send_mail ():
 
      conexion.starttls()
 
-
-     conexion.login(user="********", password="********")
+     conexion.login(user="******", password="*******")
 
      
      body_text = mail["body"]
@@ -44,10 +43,6 @@ def send_mail ():
         print("failure")   
 if __name__ == '__main__':  
     send_mail()
-
-
-
-
 
 
 
@@ -95,3 +90,4 @@ def send_mail2():
         print("failure")   
 if __name__ == '__main__':  
     send_mail2()
+

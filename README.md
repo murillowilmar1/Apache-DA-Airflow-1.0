@@ -17,8 +17,7 @@
 - Apache Airflow 
 - Postgresql 
 - Aws S3 
-- AWS Athena 
-- Power BI
+- Quicksight
 
 
 # Descripción del proyecto  
@@ -35,7 +34,7 @@ las carpetas estan en el orden en la que se debe ejecutar el proyecto paso a pas
 - **Airflow_process_Data** : Esta carpeta contiene los archivos .py de los Dags que se generaron en Airflow, en este proceso se realizó ETL para la extracción de datos, transfomación de datos y carga de datos en la nube aws(bucket S3)
 
 
-- **Aws_services** : Esta carpeta contiene los servicios utilizados en la nube AWS para el almacenamiento de los datos (bucket S3) y Athena para la conexión con power BI
+- **Aws_services** : Esta carpeta contiene los servicios utilizados en la nube AWS para el almacenamiento de los datos (bucket S3) y Quicksight para la conexión de la base de datos y la visualización. 
 
 
 
