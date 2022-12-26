@@ -30,3 +30,7 @@ def ML_model ():
     Reg_model.fit (X,y)
 
     Reg_model.score(X,y)
+    y_pred = Reg_model.predict(X=df[["Budget_margin","Budget_sales","Budget_COGS","Inventory","Total_expenses","Budget_profit", "Marketing"]])
+    df.insert (0, "Pred_RL",y_pred)
+    df.to_csv("/usr/local/airflow/tests/Reg_model.txt")
+       
